@@ -4,6 +4,7 @@ Aplicação web para visualização, edição, criação e divulgação de anún
 
 ## :technologist: Membros da equipe
 André Luis Carvalho da Silva - 474137 Engenharia de Software
+
 Lucas André Pacheco de Oliveira - 
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
