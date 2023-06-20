@@ -1,14 +1,14 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Anúncios qxd
 
-Breve descrição do que o seu projeto faz.
+Aplicação web para visualização, edição, criação e divulgação de anúncios.
 
-## :technologist: Membros da equipe
-
-Matrícula, nome e curso dos participantes.
+## :technologist: André Luis Carvalho da Silva - 474137 Engenharia de Software
+Lucas André Pacheco de Oliveira - 
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+Usuário publico que podera visualizar os anúncios, buscar e se cadastrar no sistema.
+Usuário logado que podera criar, editar e exluir anúncios.
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
