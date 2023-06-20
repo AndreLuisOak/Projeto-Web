@@ -1,27 +1,28 @@
-# :checkered_flag: Anúncios qxd
-
-Aplicação web para visualização, edição, criação e divulgação de anúncios.
+# :checkered_flag: Site de anúncios 
+Site para fazer ver e fazer anúncios online.
 
 ## :technologist: Membros da equipe
-André Luis Carvalho da Silva - 474137 Engenharia de Software
 
-Lucas André Pacheco de Oliveira - 
+André Luis Carvalho da Silva - 474137 Engenharia de software 
+Lucas André Pacheco de Oliveira - 475597 Ciência de computação 
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Usuário publico que podera visualizar os anúncios, buscar e se cadastrar no sistema.
-Usuário logado que podera criar, editar e exluir anúncios.
+Usuário público.
+Usuário com login.
+Usuário admin.
 
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
-
-Liste as principais entidades do sistema.
+Usuários que poderiam criar anúncios.
+Anúncios disponíveis para a visualização.
+Comentários que usuário logados poderiam deixar nos anúncios.
+Administradores podem excluir anúncios e banir usuários.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
-
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
-
+Cadastrar usuários.
+Criar anúncios.
+Comentários disponíveis nos anúncios.
 
 ----
 
